@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="ico">resources/icon.jpg</file>
+        <file alias="Api">resources/resizeApi.png</file>
+        <file alias="yuanliang">resources/yuanliang.jpg</file>
+    </qresource>
+</RCC>
