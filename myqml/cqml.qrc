@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/abc">
+        <file>main.qml</file>
+        <file>MyHelloWorld.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file alias="file_new">source/file_new.jpg</file>
+        <file alias="file_save">source/file_save.jpg</file>
+        <file alias="file_saveAs">source/file_saveAs.jpg</file>
+        <file alias="file_exit">source/file_exit.png</file>
+        <file alias="file_open">source/file_open.jpg</file>
+        <file alias="edit_cheXiao">source/edit_cheXiao.jpg</file>
+        <file alias="file_close">source/file_close.jpg</file>
+        <file alias="edit_jianQie">source/edit_jianQie.jpg</file>
+        <file alias="edit_fuZhi">source/edit_fuZhi.jpg</file>
+        <file alias="edit_zhanTie">source/edit_zhanTie.jpg</file>
+        <file alias="edit_chaZhao">source/edit_chaZhao.jpg</file>
+    </qresource>
+</RCC>
